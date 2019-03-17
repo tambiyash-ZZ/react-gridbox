@@ -57,7 +57,7 @@ alignSelf?: GridLayoutControls.PlaceItems[];
 padding?: string;
 ```
 
-IGridCell contains following values-
+IGridCell contains following properties-
 
 ```
 // column start line where the item begins along column axis
