@@ -1,16 +1,11 @@
 # React-Gridbox
 Uses CSSGrid to render GridContainer and GridItems with desired props. Coupled with styled-components and typescript.
 
-# Usage:
-
 ## GridContainer
  <ol>
  <li>Import GridContainer into your project</li>
  <li>Provide it with below props to divide into columns and rows.</li>
  </ol>
-
-##### Usage
-
 
 <strong>import { GridContainer } from 'react-gridbox';</strong><br/>
 <strong>import * as GridLayoutControls from 'react-gridbox/Grid/GridLayoutControls';</strong>
@@ -42,8 +37,7 @@ minHeight?: number;
  <li>You can use GridContainer.Grid. No imports needed</li>
  <li>Provide it with below props to render cells. You can thereafter render content inside those cells</li>
  </ol>
-
-##### Usage
+ 
 props - 
 
 ```
